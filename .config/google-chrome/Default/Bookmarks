@@ -1,0 +1,39 @@
+{
+   "checksum": "f6929667d17188588a4e3909d90b49ee",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13193454659931459",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13193454659931601"
+            },
+            "name": "Text Editors | The Odin Project",
+            "type": "url",
+            "url": "https://www.theodinproject.com/courses/web-development-101/lessons/text-editors"
+         } ],
+         "date_added": "13193454249608114",
+         "date_modified": "13193454659931459",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13193454249608118",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13193454249608119",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
