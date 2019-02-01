@@ -1,0 +1,67 @@
+[2019-02-01T05:23:55.201Z] starting `/usr/local/lib/heroku/bin/heroku update --autoupdate` from /usr/local/lib/heroku/bin/run version
+waiting until 2019-02-01T06:23:55.184Z to update
+waiting until 2019-02-01T06:24:21.582Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+waiting until 2019-02-01T06:25:53.453Z to update
+time to update
+heroku: Updating CLI... already on latest version: 7.19.4
+Updating completions...
+Updating completions... done

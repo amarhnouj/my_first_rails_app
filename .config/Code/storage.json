@@ -5,7 +5,14 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "backupPath": "/home/nouji/.config/Code/Backups/1548984135728",
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/nouji/odin_on_rails/my_first_rails_app",
+                "external": "file:///home/nouji/odin_on_rails/my_first_rails_app",
+                "path": "/home/nouji/odin_on_rails/my_first_rails_app",
+                "scheme": "file"
+            },
+            "backupPath": "/home/nouji/.config/Code/Backups/631a868ec5a0306338f970b0b7979948",
             "uiState": {
                 "mode": 0,
                 "x": 67,
@@ -14,5 +21,12 @@
                 "height": 773
             }
         }
+    },
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/nouji/odin_on_rails/my_first_rails_app",
+            "file:///home/nouji"
+        ],
+        "files2": []
     }
 }

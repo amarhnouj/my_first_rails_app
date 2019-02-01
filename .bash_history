@@ -69,3 +69,54 @@ $ pwd
 /home/you/odin_on_rails/my_first_rails_app
 pwd
 /home/you/odin_on_rails/my_first_rails_app
+pwd
+/home/you/odin_on_rails/my_first_rails_app
+pwd
+/home/nouji/odin_on_rails/my_first_rails_app
+git init
+git add
+git commit -m "initial commit"
+git add .
+git commit -m "initial commit"
+git remote add origin git@github.com:amarhnouj/my_first_rails_app.git
+git push -u origin master
+curl https://cli-assets.heroku.com/install.sh | sh
+heroku version
+heroku keys:add
+heroku create
+git remote show
+1s
+Is
+ls
+gemfile
+cd
+gemfile
+cd/gemfile
+code
+cd
+odin_on_rails
+"cd/odin_on_rails"
+code .
+/home/you/odin_on_rails/my_first_rails_app
+/home/nouji/odin_on_rails/my_first_rails_app
+code .
+bundle install --without production
+cd home/nouji
+cd /home/nouji
+/my_first_rails_project
+/home/nouji/my_first_rails_project
+/home/nouji/odin_on_rails/my_first_rails_app
+cd /home/nouji/odin_on_rails
+cd gemfile
+gemile
+gemfile
+cd /gemfile
+cd my_first_rails_app
+cd /gemfile
+gemfile
+ls
+code .
+bundle install --without production
+code .
+bundle install --without production
+git status

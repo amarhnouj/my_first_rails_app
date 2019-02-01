@@ -1,0 +1,2 @@
+[2019-02-01 06:45:58.847] [renderer3] [info] no standard startup: not just one window
+[2019-02-01 06:46:02.479] [renderer3] [error] Inotify limit reached (ENOSPC)
