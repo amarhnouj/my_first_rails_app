@@ -120,3 +120,17 @@ bundle install --without production
 code .
 bundle install --without production
 git status
+git status
+git add .
+git commit -m 'updates for heroku deployment'
+git push origin master
+git push heroku master
+heroku/ruby
+ls
+cd /nouji
+cd /home/nouji/odin_on_rails/my_first_rails_app
+git init
+git add .
+git commit -m "initial commit"
+git push origin master
+git push heroku master
